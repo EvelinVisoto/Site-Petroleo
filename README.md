@@ -1,6 +1,6 @@
-# Atualidades - Petróleo
+# Site Petróleo
 
-Um site básico criado como ferramenta de apresentação para uma aula de atualidades no segundo ano do ensino médio e curso técnico. O projeto aborda algumas informações sobre petróleo, vídeos, notícias, etc.
+Um site básico criado como ferramenta de apresentação para uma aula de atualidades no segundo ano do ensino médio e curso técnico. O projeto aborda algumas informações sobre petróleo, vídeos, notícias, etc. Atualmente está offline.
 
 ### Tecnologias Utilizadas
 - HTML
