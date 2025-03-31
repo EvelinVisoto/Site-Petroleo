@@ -14,4 +14,4 @@ Um site básico criado como ferramenta de apresentação para uma aula de atuali
 ### Autor
 Desenvolvido por **Evelin Visoto & Isabelly Pacheco** - 2023
 
-📌 **Repositório GitHub:** [Site Petróleo](https://github.com/EvelinVisoto/Site-Petroleo)
+📌 **Repositório GitHub:** [Petróleo](https://github.com/EvelinVisoto/Site-Petroleo)
